@@ -785,7 +785,7 @@ h2 + .row {
 }
 
 .bg-secondary {
-	background-color: #517bc0;
+	background-color: #419019;
 }
 
 .bg-secondary:not([style*="background-"]) + .bg-secondary:not([style*="background-"]) {
@@ -966,7 +966,7 @@ h2 + .row {
 }
 
 .section:not(.bg-secondary) + .bg-secondary .bg-decoration-item {
-	background-color: #517bc0;
+	background-color: #419019;
 }
 
 .section + .section-third .bg-decoration-item {
@@ -975,7 +975,7 @@ h2 + .row {
 
 @media (min-width: 992px) {
 	.section + .section-third .bg-decoration-item {
-		background-color: #517bc0;
+		background-color: #419019;
 	}
 	.section + .section-third .bg-decoration-item:nth-child(1) {
 		background-color: #f9b32c;
@@ -1526,7 +1526,7 @@ a, a:focus, a:active {
 }
 
 a:hover {
-	color: #517bc0;
+	color: #419019;
 }
 
 a[href*='tel'], a[href*='mailto'] {
@@ -1733,7 +1733,7 @@ h4 + .link-inline {
 	position: relative;
 	max-width: 550px;
 	padding-right: 25px;
-	background-color: #517bc0;
+	background-color: #c72667;
 }
 
 .box-question-quote {
@@ -1809,7 +1809,7 @@ h4 + .link-inline {
 }
 
 .box-question-footer-icon, .box-question-footer-icon:focus, .box-question-footer-icon:active {
-	color: #517bc0;
+	color: #c72667;
 	background-color: #ffffff;
 }
 
@@ -2417,7 +2417,7 @@ p + .list-marked {
 	line-height: 40px;
 	text-align: center;
 	color: #ffffff;
-	background-color: #f9b32c;
+	background-color: #c72667;
 	overflow: hidden;
 	border-radius: 50%;
 }
@@ -2529,7 +2529,7 @@ img {
 	bottom: 50px;
 	left: 0;
 	right: 0;
-	border: 10px solid #517bc0;
+	border: 10px solid #c72667;
 	margin: 40px 40px -40px -40px;
 }
 
@@ -2916,7 +2916,7 @@ svg.icon-xxl {
 
 .testimonial-quote, .testimonial-quote:focus, .testimonial-quote:active {
 	color: #ffffff;
-	background-color: #517bc0;
+	background-color: #28a745;
 }
 
 .testimonial-text {
@@ -2951,7 +2951,7 @@ svg.icon-xxl {
 
 .testimonial:hover {
 	color: #ffffff;
-	background-color: #517bc0;
+	background-color: #c72667;
 }
 
 .testimonial:hover .testimonial-author {
@@ -3134,7 +3134,7 @@ hr {
 
 .button-primary, .button-primary:focus {
 	color: #ffffff;
-	background-color: #f9b32c;
+	background-color: #c72667;
 	border-color: #f9b32c;
 }
 
@@ -3396,7 +3396,7 @@ hr {
 
 .btn-primary, .btn-primary:active, .btn-primary:focus {
 	color: #ffffff;
-	background: #f9b32c;
+	background: #c72667;
 	border-color: #f9b32c;
 }
 
@@ -5139,7 +5139,7 @@ textarea.form-input {
 	padding: 13px 5px;
 	margin-left: 10px;
 	margin-right: 10px;
-	background-color: #517bc0;
+	background-color: #559a32;
 	text-align: center;
 	border-radius: 2px;
 	margin-top: -45px;
