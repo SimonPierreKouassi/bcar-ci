@@ -3027,7 +3027,7 @@ hr {
 	position: relative;
 	overflow: hidden;
 	display: inline-block;
-	padding: 25px 45px;
+	padding: 16px 45px;
 	font-size: 13px;
 	line-height: 1.25;
 	border: 2px solid;
@@ -3135,7 +3135,8 @@ hr {
 .button-primary, .button-primary:focus {
 	color: #ffffff;
 	background-color: #c72667;
-	border-color: #f9b32c;
+	border: none;
+	border-radius: 3rem;
 }
 
 .button-primary:hover, .button-primary:active, .button-primary.active {
@@ -3858,7 +3859,7 @@ textarea.form-input {
 .rd-form-inline .form-button {
 	flex-shrink: 0;
 	max-width: calc(100% - 10px);
-	min-height: 70px;
+	min-height: 50px;
 	width: 100%;
 }
 
@@ -5633,7 +5634,7 @@ textarea.form-input {
 	width: 85px;
 	height: 85px;
 	fill: #ffffff;
-	background-color: #f9b32c;
+	background-color: #c72667;
 	border-radius: 50%;
 	transform: translateY(0);
 	transition: .3s ease-out all;
@@ -9427,7 +9428,7 @@ button.swiper-pagination-bullet {
 .tabs-custom .nav-link:hover,
 .tabs-custom .nav-link.active {
 	color: #ffffff;
-	background-color: #517bc0;
+	background-color: #559a32;
 }
 
 .tabs-horizontal .tab-content {
