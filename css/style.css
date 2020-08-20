@@ -2702,8 +2702,8 @@ h3 + img {
 }
 
 .icon-secondary {
-	color: #517bc0;
-	fill: #517bc0;
+	height: 2rem;
+	width: 2rem;
 }
 
 .icon-gray-700 {
@@ -3027,7 +3027,7 @@ hr {
 	position: relative;
 	overflow: hidden;
 	display: inline-block;
-	padding: 16px 45px;
+	padding: 25px 45px;
 	font-size: 13px;
 	line-height: 1.25;
 	border: 2px solid;
@@ -3428,8 +3428,8 @@ hr {
 }
 
 .rd-form .button {
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 	min-height: 70px;
 }
 
