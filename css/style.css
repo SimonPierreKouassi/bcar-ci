@@ -13377,3 +13377,10 @@ html .dtp .invisible {
 .breadcrumb.fancy .active a:after {
     border-left-color: #ddd;
 }
+
+.bord-rad{
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	margin: 0;
+	max-height: 70px;
+}
